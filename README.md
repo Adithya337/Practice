@@ -1,4 +1,5 @@
 # Practice
-Author:Adithya
+
+Author:Adithya Nelanothula
 <br>
 Trying git and github.
